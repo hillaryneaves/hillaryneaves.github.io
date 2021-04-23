@@ -76,9 +76,9 @@
     <div class="tab">
         <button class="tablinks" onclick="openCity(event, 'Home')">Home</button>
         <button class="tablinks" onclick="openCity(event, 'About')">About</button>
+        <button class="tablinks" onclick="openCity(event, 'Employment History')">Employment History</button>
         <button class="tablinks" onclick="openCity(event, 'Projects')">Projects</button>
         <button class="tablinks" onclick="openCity(event, 'Skills')">Skills</button>
-        <button class="tablinks" onclick="openCity(event, 'Employment History')">Employment History</button>
     </div>
 
     <div id="Home" class="tabcontent">
