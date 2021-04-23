@@ -74,7 +74,7 @@
 
     <div id="About" class="tabcontent">
         <h3>About</h3>
-        <p></p>
+        <p>My name is Hillary Neaves and I am a junior at the University of Oklahoma. I am currently majoring in Management Information Systems with a minor in Marketing. I plan to graduate in May of 2022 with a Bachelors of Business Administration in MIS. While in college, I have served as the Chapter President of my sorority for two years, served on Crimson Wishes Executive Committee, and been part of the Management Information Systems Student Association. I have loved my time in college and I look forward to what is next!</p>
     </div>
 
     <div id="Projects" class="tabcontent">
