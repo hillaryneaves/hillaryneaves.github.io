@@ -81,7 +81,7 @@
 
     <div id="Projects" class="tabcontent">
         <h3>Projects</h3>
-        <p>Hello</p>
+        <p>One of the projects that I am most proud of is my Database project. The project took the entire semester and me and my team worked extremely hard on it. We created an ERD, used SQL to run predicitions, and used implementation to test our theories. The project taught me a lot of useful information that I still carry with me in my MIS courses and it taught me how to be a better team member. You can view my project <a href="https://drive.google.com/file/d/17wx1en2mBzfLpsdKhxEnldbcKe6cBhaF/view?usp=sharing">here</a> </p>
     </div>
 
     <div id="Skills" class="tabcontent">
