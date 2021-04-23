@@ -7,11 +7,11 @@
     <style>
         body {
             font-family: Arial;
-            background-color: lightgray;
+            background-color: dimgray;
         }
         
         #Home {
-            background-color: pink;
+            background-color: floralwhite;
         }
 
         /* Style the tab */
