@@ -13,6 +13,10 @@
         #Home {
             background-color: floralwhite;
         }
+        
+        #About {
+            background-color: floralwhite;
+        }
 
         /* Style the tab */
         .tab {
@@ -70,6 +74,7 @@
         <p>Welcome to Hillary's personal website! I have used my knowledge of HTML, CSS, and JavaScript to create a website that showcases my projects, skills, employment history, and personal information. I hope that you enjoy! </p>
         <div style ="padding-left: 40%">
     <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGWqdz6qJY2wg/profile-displayphoto-shrink_400_400/0/1587179768596?e=1624492800&v=beta&t=dMWyXxVMc5HxvaoXiSdqy0TS31n7K0jO_jfwC3jVvt4"/>
+        </div>
     </div>
 
     <div id="About" class="tabcontent">
