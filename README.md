@@ -18,15 +18,15 @@
             background-color: floralwhite;
         }
         
+        #EmploymentHistory {
+            background-color: floralwhite;
+        }
+        
         #Projects {
             background-color: floralwhite;
         }
         
         #Skills {
-            background-color: floralwhite;
-        }
-        
-        #EmploymentHistory {
             background-color: floralwhite;
         }
 
@@ -90,6 +90,11 @@
         <h3>About</h3>
         <p>My name is Hillary Neaves and I am a junior at the University of Oklahoma. I am currently majoring in Management Information Systems with a minor in Marketing. I plan to graduate in May of 2022 with a Bachelors of Business Administration in MIS. While in college, I have served as the Chapter President of my sorority for two years, served on Crimson Wishes Executive Committee, and been part of the Management Information Systems Student Association. I have loved my time in college and I look forward to what is next!</p>
     </div>
+    
+    <div id="EmploymentHistory" class="tabcontent">
+        <h3>Employment History</h3>
+        <p>While in college, I have worked as a Receptionist at Rehabilitation Medicine of Oklahoma and have an upcoming Internship with American Fidelity as a Business Operations Intern. I am looking forward to my future Internship and I am thankful for all that I have learned as a Receptionist at RMO.</p>
+    </div>
 
     <div id="Projects" class="tabcontent">
         <h3>Projects</h3>
@@ -109,11 +114,6 @@
                     <li>Databases</li>
                 </ul>
         </p>
-    </div>
-
-    <div id="EmploymentHistory" class="tabcontent">
-        <h3>Employment History</h3>
-        <p>While in college, I have worked as a Receptionist at Rehabilitation Medicine of Oklahoma and have an upcoming Internship with American Fidelity as a Business Operations Intern. I am looking forward to my future Internship and I am thankful for all that I have learned as a Receptionist at RMO.</p>
     </div>
 
     <script>
