@@ -24,6 +24,11 @@
         
         #Skills {
             background-color: floralwhite;
+        }
+        
+        #EmploymentHistory {
+            background-color: floralwhite;
+        }
 
         /* Style the tab */
         .tab {
@@ -94,21 +99,21 @@
     <div id="Skills" class="tabcontent">
         <h3>Skills</h3>
         <p>
-        Throughout my time in college, I have learned many different skills. These skills have 
-        helped me to succeed in my courses and organizations, and I plan to utilize them in my 
-        future career. The skills that I have gathered are:
-        <ul>
-            <li>C#</li>
-            <li>Microsoft Office</li>
-            <li>Visual Studio</li>
-            <li>Databases</li>
-        </ul>
-    </p>
+            Throughout my time in college, I have learned many different skills. These skills have 
+            helped me to succeed in my courses and organizations, and I plan to utilize them in my 
+            future career. The skills that I have gathered are:
+                <ul>
+                    <li>C#</li>
+                    <li>Microsoft Office</li>
+                    <li>Visual Studio</li>
+                    <li>Databases</li>
+                </ul>
+        </p>
     </div>
 
-    <div id="Employment History" class="tabcontent">
+    <div id="EmploymentHistory" class="tabcontent">
         <h3>Employment History</h3>
-        <p>Hello</p>
+        <p>While in college, I have worked as a Receptionist at Rehabilitation Medicine of Oklahoma and have an upcoming Internship with American Fidelity as a Business Operations Intern. I am looking forward to my future Internship and I am thankful for all that I have learned as a Receptionist at RMO.</p>
     </div>
 
     <script>
