@@ -18,7 +18,7 @@
             background-color: floralwhite;
         }
         
-        #EmploymentHistory {
+        #Employment {
             background-color: floralwhite;
         }
         
@@ -76,7 +76,7 @@
     <div class="tab">
         <button class="tablinks" onclick="openCity(event, 'Home')">Home</button>
         <button class="tablinks" onclick="openCity(event, 'About')">About</button>
-        <button class="tablinks" onclick="openCity(event, 'Employment History')">Employment History</button>
+        <button class="tablinks" onclick="openCity(event, 'Employment')">Employment</button>
         <button class="tablinks" onclick="openCity(event, 'Projects')">Projects</button>
         <button class="tablinks" onclick="openCity(event, 'Skills')">Skills</button>
     </div>
@@ -92,8 +92,8 @@
         <p>My name is Hillary Neaves and I am a junior at the University of Oklahoma. I am currently majoring in Management Information Systems with a minor in Marketing. I plan to graduate in May of 2022 with a Bachelors of Business Administration in MIS. While in college, I have served as the Chapter President of my sorority for two years, served on Crimson Wishes Executive Committee, and been part of the Management Information Systems Student Association. I have loved my time in college and I look forward to what is next!</p>
     </div>
     
-    <div id="EmploymentHistory" class="tabcontent">
-        <h3>Employment History</h3>
+    <div id="Employment" class="tabcontent">
+        <h3>Employment</h3>
         <p>While in college, I have worked as a Receptionist at Rehabilitation Medicine of Oklahoma and have an upcoming Internship with American Fidelity as a Business Operations Intern. I am looking forward to my future Internship and I am thankful for all that I have learned as a Receptionist at RMO.</p>
     </div>
 
