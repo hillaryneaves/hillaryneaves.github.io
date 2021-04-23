@@ -21,6 +21,9 @@
         #Projects {
             background-color: floralwhite;
         }
+        
+        #Skills {
+            background-color: floralwhite;
 
         /* Style the tab */
         .tab {
@@ -85,12 +88,22 @@
 
     <div id="Projects" class="tabcontent">
         <h3>Projects</h3>
-        <p>One of the projects that I am most proud of is my Database project. The project took the entire semester and me and my team worked extremely hard on it. We created an ERD, used SQL to run predicitions, and used implementation to test our theories. The project taught me a lot of useful information that I still carry with me in my MIS courses and it taught me how to be a better team member. You can view my project <a href="https://drive.google.com/file/d/17wx1en2mBzfLpsdKhxEnldbcKe6cBhaF/view?usp=sharing">here.</a> </p>
+        <p>One of the projects that I am most proud of is my Database project. The project took the entire semester and me and my team worked extremely hard on it. We created an ERD, used SQL to run predicitions, and used implementation to test our theories. The project taught me a lot of useful information that I still carry with me in my MIS courses and it taught me how to be a better team member. You can view my project <a href="https://drive.google.com/file/d/17wx1en2mBzfLpsdKhxEnldbcKe6cBhaF/view?usp=sharing" target="_blank">here.</a> </p>
     </div>
 
     <div id="Skills" class="tabcontent">
         <h3>Skills</h3>
-        <p>Hello</p>
+        <p>
+        Throughout my time in college, I have learned many different skills. These skills have 
+        helped me to succeed in my courses and organizations, and I plan to utilize them in my 
+        future career. The skills that I have gathered are:
+        <ul>
+            <li>C#</li>
+            <li>Microsoft Office</li>
+            <li>Visual Studio</li>
+            <li>Databases</li>
+        </ul>
+    </p>
     </div>
 
     <div id="Employment History" class="tabcontent">
